@@ -1,0 +1,351 @@
+line,label
+2023-04-28 12:11:06.788050 password Login_page 7 https://www.example.com,fault
+2023-04-28 12:11:06.792239 add-to-cart-sauce-labs-bolt-t-shirt Shopping_cart 15 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.792734 password Home_page 5 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.793176 btn btn_action btn_medium checkout_button Product_page 7 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.793581 reset_sidebar_link Product_page 9 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.793982 react-burger-menu-btn Product_page 12 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.794351 add-to-cart-sauce-labs-onesie Login_page 11 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.794753 password Home_page 10 https://www.example.com,fault
+2023-04-28 12:11:06.795179 btn btn_secondary 8 https://www.example.com,fault
+2023-04-28 12:11:06.799294 product_sort_container Home_page 5 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.799552 shopping_cart_link Shopping_cart 15 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.799588 add-to-cart-sauce-labs-fleece-jacket Home_page 12 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.799617 react-burger-menu-btn Product_page 5 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.799642 btn btn_secondary 4 https://www.example.com,fault
+2023-04-28 12:11:06.799668 add-to-cart-sauce-labs-bolt-t-shirt Home_page 9 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.799725 submit-button btn_action Login_page 15 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.799753 shopping_cart_link Home_page 4 https://www.example.com,fault
+2023-04-28 12:11:06.799779 add-to-cart-sauce-labs-fleece-jacket Login_page 8 https://www.example.com,fault
+2023-04-28 12:11:06.799811 password Product_page 6 https://www.example.com,fault
+2023-04-28 12:11:06.799836 add-to-cart-sauce-labs-bike-light Product_page 5 https://www.example.com,fault
+2023-04-28 12:11:06.799867 add-to-cart-sauce-labs-fleece-jacket Shopping_cart 15 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.799906 add-to-cart-sauce-labs-onesie Product_page 1 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.799931 react-burger-menu-btn Login_page 5 https://www.example.com,fault
+2023-04-28 12:11:06.799955 about_sidebar_link Shopping_cart 1 https://www.example.com,fault
+2023-04-28 12:11:06.799978 add-to-cart-sauce-labs-bike-light Product_page 10 https://www.example.com,fault
+2023-04-28 12:11:06.800001 reset_sidebar_link Shopping_cart 2 https://www.example.com,fault
+2023-04-28 12:11:06.800024 add-to-cart-sauce-labs-bolt-t-shirt Home_page 9 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.800047 add-to-cart-sauce-labs-bolt-t-shirt Shopping_cart 4 https://www.example.com,fault
+2023-04-28 12:11:06.800070 add-to-cart-sauce-labs-onesie Product_page 10 https://www.example.com,fault
+2023-04-28 12:11:06.800092 submit-button btn_action Home_page 8 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.800114 react-burger-menu-btn Login_page 9 https://www.example.com,fault
+2023-04-28 12:11:06.800136 add-to-cart-sauce-labs-fleece-jacket Product_page 13 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.800159 password Home_page 9 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.800181 username Home_page 7 https://www.example.com,fault
+2023-04-28 12:11:06.800216 add-to-cart-sauce-labs-bike-light Login_page 6 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.800287 add-to-cart-sauce-labs-bolt-t-shirt Login_page 4 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.800316 add-to-cart-sauce-labs-onesie Home_page 8 https://www.example.com,fault
+2023-04-28 12:11:06.800344 about_sidebar_link Home_page 9 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.800371 add-to-cart-sauce-labs-bike-light Login_page 8 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.800395 username Login_page 10 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.800417 add-to-cart-sauce-labs-fleece-jacket Product_page 6 https://www.example.com,fault
+2023-04-28 12:11:06.800442 btn btn_secondary 6 https://www.example.com,fault
+2023-04-28 12:11:06.800476 btn btn_action 9 https://www.example.com,fault
+2023-04-28 12:11:06.800509 add-to-cart-sauce-labs-fleece-jacket Home_page 1 https://www.example.com,fault
+2023-04-28 12:11:06.800535 about_sidebar_link Shopping_cart 2 https://www.example.com,fault
+2023-04-28 12:11:06.800557 product_sort_container Product_page 4 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.800583 about_sidebar_link Product_page 4 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.800605 reset_sidebar_link Shopping_cart 1 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.800628 btn btn_action 2 https://www.example.com,fault
+2023-04-28 12:11:06.800652 shopping_cart_link Product_page 13 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.800678 reset_sidebar_link Home_page 9 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.800703 password Home_page 1 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.800727 product_sort_container Login_page 13 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.801105 shopping_cart_link Login_page 7 https://www.example.com,fault
+2023-04-28 12:11:06.801170 product_sort_container Home_page 8 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.801201 add-to-cart-sauce-labs-bolt-t-shirt Product_page 2 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.801228 shopping_cart_link Login_page 9 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.801300 reset_sidebar_link Login_page 9 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.801328 btn btn_action btn_medium checkout_button Login_page 10 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.801353 about_sidebar_link Shopping_cart 7 https://www.example.com,fault
+2023-04-28 12:11:06.801377 add-to-cart-sauce-labs-onesie Home_page 10 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.801402 btn btn_action btn_medium checkout_button Product_page 15 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.801428 add-to-cart-sauce-labs-fleece-jacket Login_page 9 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.801452 add-to-cart-sauce-labs-bolt-t-shirt Shopping_cart 9 https://www.example.com,fault
+2023-04-28 12:11:06.801484 react-burger-menu-btn Shopping_cart 6 https://www.example.com,fault
+2023-04-28 12:11:06.801527 add-to-cart-sauce-labs-bike-light Shopping_cart 2 https://www.example.com,fault
+2023-04-28 12:11:06.801556 btn btn_secondary back btn_large inventory_details_back_button Shopping_cart 14 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.801585 username Product_page 6 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.801613 react-burger-menu-btn Home_page 9 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.801641 add-to-cart-sauce-labs-bolt-t-shirt Home_page 1 https://www.example.com,fault
+2023-04-28 12:11:06.801680 shopping_cart_link Product_page 4 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.801708 add-to-cart-sauce-labs-fleece-jacket Product_page 2 https://www.example.com,fault
+2023-04-28 12:11:06.801740 product_sort_container Home_page 5 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.801765 add-to-cart-sauce-labs-fleece-jacket Shopping_cart 8 https://www.example.com,fault
+2023-04-28 12:11:06.801790 about_sidebar_link Product_page 6 https://www.example.com,fault
+2023-04-28 12:11:06.801821 reset_sidebar_link Login_page 5 https://www.example.com,fault
+2023-04-28 12:11:06.801846 add-to-cart-sauce-labs-onesie Shopping_cart 10 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.801869 reset_sidebar_link Product_page 9 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.813910 about_sidebar_link Shopping_cart 14 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.814015 reset_sidebar_link Login_page 14 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.814039 btn btn_secondary 2 https://www.example.com,fault
+2023-04-28 12:11:06.814058 react-burger-menu-btn Product_page 1 https://www.example.com,fault
+2023-04-28 12:11:06.814077 add-to-cart-sauce-labs-onesie Shopping_cart 9 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.814094 add-to-cart-sauce-labs-onesie Product_page 6 https://www.example.com,fault
+2023-04-28 12:11:06.814111 add-to-cart-sauce-labs-bolt-t-shirt Login_page 3 https://www.example.com,fault
+2023-04-28 12:11:06.814129 about_sidebar_link Shopping_cart 10 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.814146 product_sort_container Home_page 7 https://www.example.com,fault
+2023-04-28 12:11:06.814162 btn btn_action btn_medium checkout_button Login_page 4 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.814178 reset_sidebar_link Home_page 2 https://www.example.com,fault
+2023-04-28 12:11:06.814196 add-to-cart-sauce-labs-fleece-jacket Shopping_cart 7 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.814212 reset_sidebar_link Home_page 9 https://www.example.com,fault
+2023-04-28 12:11:06.814227 about_sidebar_link Shopping_cart 7 https://www.example.com,fault
+2023-04-28 12:11:06.814244 password Shopping_cart 2 https://www.example.com,fault
+2023-04-28 12:11:06.814261 submit-button btn_action 5 https://www.example.com,fault
+2023-04-28 12:11:06.814278 about_sidebar_link Shopping_cart 8 https://www.example.com,fault
+2023-04-28 12:11:06.814293 submit-button btn_action Login_page 7 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.814309 btn btn_secondary 8 https://www.example.com,fault
+2023-04-28 12:11:06.814324 add-to-cart-sauce-labs-bike-light Product_page 14 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.814348 username Home_page 5 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.814364 add-to-cart-sauce-labs-bike-light Home_page 3 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.814380 btn btn_action 7 https://www.example.com,fault
+2023-04-28 12:11:06.814395 submit-button btn_action Login_page 4 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.814411 about_sidebar_link Home_page 9 https://www.example.com,fault
+2023-04-28 12:11:06.814427 btn btn_action 9 https://www.example.com,fault
+2023-04-28 12:11:06.814442 username Login_page 8 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.814458 add-to-cart-sauce-labs-bolt-t-shirt Home_page 8 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.814475 react-burger-menu-btn Shopping_cart 9 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.814490 product_sort_container Shopping_cart 2 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.814506 reset_sidebar_link Shopping_cart 5 https://www.example.com,fault
+2023-04-28 12:11:06.814522 reset_sidebar_link Product_page 10 https://www.example.com,fault
+2023-04-28 12:11:06.814565 add-to-cart-sauce-labs-onesie Shopping_cart 7 https://www.example.com,fault
+2023-04-28 12:11:06.814583 shopping_cart_link Login_page 2 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.814599 add-to-cart-sauce-labs-bolt-t-shirt Shopping_cart 1 https://www.example.com,fault
+2023-04-28 12:11:06.814615 add-to-cart-sauce-labs-bike-light Home_page 12 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.814630 password Product_page 3 https://www.example.com,fault
+2023-04-28 12:11:06.814646 reset_sidebar_link Home_page 12 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.814662 shopping_cart_link Product_page 7 https://www.example.com,fault
+2023-04-28 12:11:06.814678 submit-button btn_action Login_page 2 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.814694 btn btn_action btn_medium checkout_button Home_page 4 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.814710 add-to-cart-sauce-labs-onesie Login_page 11 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.814726 reset_sidebar_link Login_page 2 https://www.example.com,fault
+2023-04-28 12:11:06.814742 add-to-cart-sauce-labs-onesie Product_page 6 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.814758 submit-button btn_action 9 https://www.example.com,fault
+2023-04-28 12:11:06.814773 reset_sidebar_link Product_page 8 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.814788 add-to-cart-sauce-labs-onesie Shopping_cart 1 https://www.example.com,fault
+2023-04-28 12:11:06.814803 about_sidebar_link Login_page 6 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.814819 password Login_page 2 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.814835 add-to-cart-sauce-labs-bolt-t-shirt Home_page 15 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.814851 add-to-cart-sauce-labs-bolt-t-shirt Shopping_cart 14 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.814866 add-to-cart-sauce-labs-bike-light Shopping_cart 14 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.814899 product_sort_container Product_page 5 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.814926 shopping_cart_link Shopping_cart 1 https://www.example.com,fault
+2023-04-28 12:11:06.814962 shopping_cart_link Product_page 4 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.814993 add-to-cart-sauce-labs-bolt-t-shirt Login_page 11 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.815012 shopping_cart_link Login_page 1 https://www.example.com,fault
+2023-04-28 12:11:06.815027 shopping_cart_link Home_page 7 https://www.example.com,fault
+2023-04-28 12:11:06.815043 btn btn_secondary 7 https://www.example.com,fault
+2023-04-28 12:11:06.815060 reset_sidebar_link Shopping_cart 13 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.815075 add-to-cart-sauce-labs-fleece-jacket Product_page 7 https://www.example.com,fault
+2023-04-28 12:11:06.815092 product_sort_container Login_page 11 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.815107 react-burger-menu-btn Shopping_cart 1 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.815122 add-to-cart-sauce-labs-onesie Home_page 12 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.815138 btn btn_secondary back btn_large inventory_details_back_button Login_page 2 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.815154 product_sort_container Login_page 3 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.815169 btn btn_action btn_medium checkout_button Home_page 15 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.815184 add-to-cart-sauce-labs-onesie Shopping_cart 10 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.815199 password Product_page 11 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.815227 react-burger-menu-btn Home_page 6 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.815248 add-to-cart-sauce-labs-fleece-jacket Product_page 11 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.815268 password Shopping_cart 3 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.815284 react-burger-menu-btn Shopping_cart 2 https://www.example.com,fault
+2023-04-28 12:11:06.815300 reset_sidebar_link Home_page 4 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.815317 password Shopping_cart 3 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.815339 username Home_page 10 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.815356 add-to-cart-sauce-labs-fleece-jacket Login_page 3 https://www.example.com,fault
+2023-04-28 12:11:06.815372 reset_sidebar_link Login_page 3 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.815388 add-to-cart-sauce-labs-bike-light Product_page 10 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.815403 about_sidebar_link Shopping_cart 7 https://www.example.com,fault
+2023-04-28 12:11:06.815418 password Product_page 2 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.815444 submit-button btn_action Product_page 2 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.815460 product_sort_container Product_page 10 https://www.example.com,fault
+2023-04-28 12:11:06.815475 submit-button btn_action 9 https://www.example.com,fault
+2023-04-28 12:11:06.815498 add-to-cart-sauce-labs-onesie Login_page 13 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.815523 reset_sidebar_link Login_page 4 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.815540 add-to-cart-sauce-labs-onesie Shopping_cart 14 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.815557 product_sort_container Shopping_cart 11 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.815579 submit-button btn_action Home_page 7 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.815595 password Login_page 1 https://www.example.com,fault
+2023-04-28 12:11:06.815610 react-burger-menu-btn Login_page 14 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.815626 btn btn_secondary back btn_large inventory_details_back_button Product_page 10 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.815688 btn btn_secondary 1 https://www.example.com,fault
+2023-04-28 12:11:06.815704 shopping_cart_link Shopping_cart 12 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.815720 react-burger-menu-btn Home_page 1 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.815735 btn btn_secondary 2 https://www.example.com,fault
+2023-04-28 12:11:06.815751 btn btn_secondary back btn_large inventory_details_back_button Product_page 11 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.815766 btn btn_secondary 8 https://www.example.com,fault
+2023-04-28 12:11:06.815783 username Login_page 1 https://www.example.com,fault
+2023-04-28 12:11:06.815799 react-burger-menu-btn Home_page 1 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.815814 add-to-cart-sauce-labs-onesie Home_page 1 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.815829 add-to-cart-sauce-labs-fleece-jacket Login_page 4 https://www.example.com,fault
+2023-04-28 12:11:06.815844 username Shopping_cart 6 https://www.example.com,fault
+2023-04-28 12:11:06.815860 reset_sidebar_link Home_page 5 https://www.example.com,fault
+2023-04-28 12:11:06.815875 add-to-cart-sauce-labs-bike-light Product_page 4 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.815918 add-to-cart-sauce-labs-bolt-t-shirt Login_page 9 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.815937 add-to-cart-sauce-labs-onesie Home_page 13 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.815952 about_sidebar_link Home_page 1 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.815968 btn btn_action btn_medium checkout_button Home_page 4 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.815984 shopping_cart_link Home_page 3 https://www.example.com,fault
+2023-04-28 12:11:06.816002 add-to-cart-sauce-labs-bolt-t-shirt Login_page 5 https://www.example.com,fault
+2023-04-28 12:11:06.816019 shopping_cart_link Login_page 7 https://www.example.com,fault
+2023-04-28 12:11:06.816034 add-to-cart-sauce-labs-bolt-t-shirt Product_page 12 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.816062 about_sidebar_link Home_page 10 https://www.example.com,fault
+2023-04-28 12:11:06.816079 btn btn_secondary back btn_large inventory_details_back_button Shopping_cart 13 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.816094 add-to-cart-sauce-labs-fleece-jacket Login_page 9 https://www.example.com,fault
+2023-04-28 12:11:06.816172 product_sort_container Home_page 10 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.816188 btn btn_action 8 https://www.example.com,fault
+2023-04-28 12:11:06.816204 react-burger-menu-btn Product_page 10 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.816218 btn btn_secondary back btn_large inventory_details_back_button Home_page 4 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.816252 add-to-cart-sauce-labs-bolt-t-shirt Shopping_cart 9 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.816267 password Login_page 9 https://www.example.com,fault
+2023-04-28 12:11:06.816282 add-to-cart-sauce-labs-fleece-jacket Home_page 7 https://www.example.com,fault
+2023-04-28 12:11:06.816319 add-to-cart-sauce-labs-bolt-t-shirt Login_page 4 https://www.example.com,fault
+2023-04-28 12:11:06.816340 react-burger-menu-btn Login_page 1 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.816356 add-to-cart-sauce-labs-onesie Product_page 4 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.816371 add-to-cart-sauce-labs-onesie Login_page 10 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.816387 add-to-cart-sauce-labs-onesie Product_page 3 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.816403 about_sidebar_link Shopping_cart 7 https://www.example.com,fault
+2023-04-28 12:11:06.816418 shopping_cart_link Login_page 14 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.816433 react-burger-menu-btn Login_page 6 https://www.example.com,fault
+2023-04-28 12:11:06.816449 add-to-cart-sauce-labs-fleece-jacket Login_page 5 https://www.example.com,fault
+2023-04-28 12:11:06.816464 username Product_page 8 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.816488 add-to-cart-sauce-labs-fleece-jacket Home_page 7 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.816505 add-to-cart-sauce-labs-bike-light Shopping_cart 2 https://www.example.com,fault
+2023-04-28 12:11:06.816522 product_sort_container Shopping_cart 6 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.816537 add-to-cart-sauce-labs-onesie Shopping_cart 9 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.816553 reset_sidebar_link Login_page 10 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.816569 react-burger-menu-btn Shopping_cart 8 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.816584 btn btn_secondary back btn_large inventory_details_back_button Product_page 8 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.816599 btn btn_action 2 https://www.example.com,fault
+2023-04-28 12:11:06.816614 about_sidebar_link Home_page 1 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.816632 password Home_page 6 https://www.example.com,fault
+2023-04-28 12:11:06.816647 add-to-cart-sauce-labs-bolt-t-shirt Product_page 3 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.816662 add-to-cart-sauce-labs-bike-light Product_page 1 https://www.example.com,fault
+2023-04-28 12:11:06.816677 add-to-cart-sauce-labs-bike-light Home_page 7 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.816699 add-to-cart-sauce-labs-fleece-jacket Home_page 3 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.816715 add-to-cart-sauce-labs-fleece-jacket Shopping_cart 4 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.816730 btn btn_secondary back btn_large inventory_details_back_button Login_page 9 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.816746 add-to-cart-sauce-labs-fleece-jacket Product_page 7 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.816761 react-burger-menu-btn Home_page 2 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.816775 submit-button btn_action Login_page 9 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.816791 react-burger-menu-btn Shopping_cart 10 https://www.example.com,fault
+2023-04-28 12:11:06.816844 btn btn_secondary back btn_large inventory_details_back_button Home_page 8 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.816867 add-to-cart-sauce-labs-bike-light Home_page 1 https://www.example.com,fault
+2023-04-28 12:11:06.816910 add-to-cart-sauce-labs-bolt-t-shirt Home_page 8 https://www.example.com,fault
+2023-04-28 12:11:06.816956 add-to-cart-sauce-labs-fleece-jacket Product_page 2 https://www.example.com,fault
+2023-04-28 12:11:06.816987 btn btn_action btn_medium checkout_button Home_page 6 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.817004 btn btn_action btn_medium checkout_button Login_page 4 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.817020 username Login_page 2 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.817047 btn btn_secondary back btn_large inventory_details_back_button Product_page 8 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.817064 username Home_page 2 https://www.example.com,fault
+2023-04-28 12:11:06.817087 product_sort_container Home_page 7 https://www.example.com,fault
+2023-04-28 12:11:06.817104 add-to-cart-sauce-labs-bike-light Shopping_cart 10 https://www.example.com,fault
+2023-04-28 12:11:06.817119 product_sort_container Home_page 7 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.817134 reset_sidebar_link Product_page 9 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.817149 add-to-cart-sauce-labs-bolt-t-shirt Shopping_cart 5 https://www.example.com,fault
+2023-04-28 12:11:06.817164 reset_sidebar_link Home_page 14 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.817181 btn btn_secondary back btn_large inventory_details_back_button Product_page 1 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.817196 about_sidebar_link Login_page 1 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.817213 btn btn_action 8 https://www.example.com,fault
+2023-04-28 12:11:06.817228 add-to-cart-sauce-labs-bolt-t-shirt Shopping_cart 3 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.817243 about_sidebar_link Product_page 1 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.817269 add-to-cart-sauce-labs-bike-light Home_page 2 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.817287 add-to-cart-sauce-labs-bolt-t-shirt Product_page 6 https://www.example.com,fault
+2023-04-28 12:11:06.817302 add-to-cart-sauce-labs-onesie Login_page 6 https://www.example.com,fault
+2023-04-28 12:11:06.817318 submit-button btn_action 7 https://www.example.com,fault
+2023-04-28 12:11:06.817345 about_sidebar_link Shopping_cart 4 https://www.example.com,fault
+2023-04-28 12:11:06.817361 btn btn_secondary 4 https://www.example.com,fault
+2023-04-28 12:11:06.817377 username Login_page 7 https://www.example.com,fault
+2023-04-28 12:11:06.817392 btn btn_action btn_medium checkout_button Shopping_cart 8 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.817408 add-to-cart-sauce-labs-bike-light Shopping_cart 3 https://www.example.com,fault
+2023-04-28 12:11:06.817423 btn btn_action 7 https://www.example.com,fault
+2023-04-28 12:11:06.817438 about_sidebar_link Login_page 11 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.817454 add-to-cart-sauce-labs-fleece-jacket Product_page 4 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.817477 add-to-cart-sauce-labs-onesie Login_page 5 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.817493 username Home_page 10 https://www.example.com,fault
+2023-04-28 12:11:06.817516 shopping_cart_link Home_page 13 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.817531 add-to-cart-sauce-labs-bike-light Product_page 3 https://www.example.com,fault
+2023-04-28 12:11:06.817546 submit-button btn_action Product_page 4 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.817561 password Login_page 4 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.817577 reset_sidebar_link Home_page 7 https://www.example.com,fault
+2023-04-28 12:11:06.817592 shopping_cart_link Product_page 6 https://www.example.com,fault
+2023-04-28 12:11:06.817607 about_sidebar_link Login_page 6 https://www.example.com,fault
+2023-04-28 12:11:06.817622 add-to-cart-sauce-labs-bolt-t-shirt Login_page 14 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.817637 about_sidebar_link Home_page 4 https://www.example.com,fault
+2023-04-28 12:11:06.817652 username Home_page 9 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.817667 react-burger-menu-btn Shopping_cart 2 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.817685 username Login_page 1 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.817710 add-to-cart-sauce-labs-fleece-jacket Home_page 5 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.817726 add-to-cart-sauce-labs-bolt-t-shirt Shopping_cart 3 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.817741 add-to-cart-sauce-labs-bolt-t-shirt Product_page 6 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.817756 react-burger-menu-btn Product_page 4 https://www.example.com,fault
+2023-04-28 12:11:06.817772 add-to-cart-sauce-labs-onesie Login_page 15 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.817787 add-to-cart-sauce-labs-bike-light Home_page 5 https://www.example.com,fault
+2023-04-28 12:11:06.817802 add-to-cart-sauce-labs-fleece-jacket Home_page 11 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.817817 product_sort_container Shopping_cart 6 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.817832 product_sort_container Home_page 8 https://www.example.com,fault
+2023-04-28 12:11:06.817847 add-to-cart-sauce-labs-fleece-jacket Home_page 14 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.817862 about_sidebar_link Login_page 6 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.817877 btn btn_action 2 https://www.example.com,fault
+2023-04-28 12:11:06.817918 btn btn_secondary back btn_large inventory_details_back_button Login_page 15 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.817950 about_sidebar_link Home_page 1 https://www.example.com,fault
+2023-04-28 12:11:06.817973 submit-button btn_action 4 https://www.example.com,fault
+2023-04-28 12:11:06.817996 password Login_page 14 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.818012 password Product_page 6 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.818032 shopping_cart_link Shopping_cart 6 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.818057 add-to-cart-sauce-labs-onesie Shopping_cart 5 https://www.example.com,fault
+2023-04-28 12:11:06.818076 add-to-cart-sauce-labs-fleece-jacket Shopping_cart 10 https://www.example.com,fault
+2023-04-28 12:11:06.818100 btn btn_action btn_medium checkout_button Home_page 11 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.818116 add-to-cart-sauce-labs-onesie Shopping_cart 7 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.818131 shopping_cart_link Product_page 2 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.818146 password Product_page 1 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.818162 shopping_cart_link Login_page 12 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.818178 about_sidebar_link Product_page 6 https://www.example.com,fault
+2023-04-28 12:11:06.818202 btn btn_action btn_medium checkout_button Home_page 14 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.818219 reset_sidebar_link Product_page 2 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.818234 btn btn_action 6 https://www.example.com,fault
+2023-04-28 12:11:06.818249 about_sidebar_link Home_page 10 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.818264 shopping_cart_link Product_page 15 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.818340 product_sort_container Home_page 5 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.818358 shopping_cart_link Login_page 15 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.818373 btn btn_secondary 10 https://www.example.com,fault
+2023-04-28 12:11:06.818388 add-to-cart-sauce-labs-fleece-jacket Shopping_cart 5 https://www.example.com,fault
+2023-04-28 12:11:06.818404 add-to-cart-sauce-labs-bolt-t-shirt Product_page 10 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.818419 reset_sidebar_link Shopping_cart 4 https://www.example.com,fault
+2023-04-28 12:11:06.818435 react-burger-menu-btn Home_page 3 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.818450 reset_sidebar_link Login_page 13 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.818465 reset_sidebar_link Home_page 6 https://www.example.com,fault
+2023-04-28 12:11:06.818483 add-to-cart-sauce-labs-fleece-jacket Product_page 3 https://www.example.com,fault
+2023-04-28 12:11:06.818500 reset_sidebar_link Home_page 7 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.818515 add-to-cart-sauce-labs-onesie Login_page 5 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.818530 reset_sidebar_link Home_page 1 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.818545 btn btn_secondary 8 https://www.example.com,fault
+2023-04-28 12:11:06.818560 about_sidebar_link Shopping_cart 5 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.818575 submit-button btn_action Home_page 9 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.818589 about_sidebar_link Login_page 12 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.818611 about_sidebar_link Product_page 11 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.818627 add-to-cart-sauce-labs-bolt-t-shirt Login_page 5 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.818642 about_sidebar_link Home_page 8 https://www.example.com,fault
+2023-04-28 12:11:06.818657 product_sort_container Product_page 6 https://www.example.com,fault
+2023-04-28 12:11:06.818674 shopping_cart_link Login_page 3 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.818690 submit-button btn_action Product_page 13 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.818705 btn btn_action btn_medium checkout_button Product_page 1 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.818719 username Home_page 14 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.818734 password Product_page 6 https://www.example.com,fault
+2023-04-28 12:11:06.818749 add-to-cart-sauce-labs-fleece-jacket Home_page 7 https://www.example.com,fault
+2023-04-28 12:11:06.818764 username Home_page 10 https://www.example.com,fault
+2023-04-28 12:11:06.818778 about_sidebar_link Login_page 13 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.818793 submit-button btn_action 1 https://www.example.com,fault
+2023-04-28 12:11:06.818808 add-to-cart-sauce-labs-fleece-jacket Home_page 2 https://www.example.com,fault
+2023-04-28 12:11:06.818822 add-to-cart-sauce-labs-bike-light Product_page 4 https://www.example.com,fault
+2023-04-28 12:11:06.818840 product_sort_container Home_page 13 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.818858 shopping_cart_link Home_page 2 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.818873 about_sidebar_link Product_page 8 https://www.saucedemo.com/cart.html,valid
+2023-04-28 12:11:06.818909 react-burger-menu-btn Shopping_cart 13 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.818949 add-to-cart-sauce-labs-bike-light Shopping_cart 9 https://www.example.com,fault
+2023-04-28 12:11:06.818988 submit-button btn_action Shopping_cart 10 https://www.saucedemo.com/inventory-item.html,valid
+2023-04-28 12:11:06.819027 reset_sidebar_link Shopping_cart 1 https://www.saucedemo.com/inventory.html,valid
+2023-04-28 12:11:06.880732 add-to-cart-sauce-labs-onesie Home_page 4 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.880894 password Product_page 11 https://www.saucedemo.com/login.html,valid
+2023-04-28 12:11:06.880944 btn btn_action 2 https://www.example.com,fault
