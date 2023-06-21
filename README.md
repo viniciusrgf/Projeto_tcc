@@ -1,4 +1,4 @@
-# Projeto_tcc
+# Projeto tcc: ANALISE DO USO DE APRENDIZADO DE MAQUINA NA CRIAÇÃO DE ORACULOS DE TESTES
 
 Codigo Referente a geração de logs esta presente na pasta log_generation.
 Nele é possivel utilizar o codigo que foi utilizado para gerar os arquivos de log presentes nos assets
